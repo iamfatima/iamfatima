@@ -4,9 +4,11 @@
 
 *Looking foward to improve my programming skills*
 
-🌱 I’m currently working on a simple snake game in C.
+🌱 I’m currently working on a simple snake game in C and having fun with advent of code 2020.
 
 ✨ Pronouns: she/her
+
+
 
 
 
