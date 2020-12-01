@@ -1,6 +1,11 @@
 ### Hello there! 
 
-ssss
+✨ Who am I?
+
+My name is Maria and I'm currently on my second year of a Computer Science student at Instituto Superior Técnico. 
+
+
+
 <!--
 **iamfatima/iamfatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
