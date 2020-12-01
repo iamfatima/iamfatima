@@ -1,8 +1,7 @@
-### Hello there! 
+### Hi, I'm Maria!
 
-✨ Who am I?
-
-My name is Maria and I'm currently on my second year of a Computer Science student at Instituto Superior Técnico. 
+I'm currently on my second year of a Computer Science student at Instituto Superior Técnico. 
+I'm working on improving my skills in programming and I look foward to learn as much as I can!
 
 
 
