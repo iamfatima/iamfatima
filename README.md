@@ -1,6 +1,7 @@
-### Hi, I'm Maria!
+### Hi, I'm Maria.
 
-I'm currently on my second year of a Computer Science student at Instituto Superior Técnico. 
+*Student at Instituto Superior Técnico, Lisbon*
+
 I'm working on improving my skills in programming and I look foward to learn as much as I can!
 
 
