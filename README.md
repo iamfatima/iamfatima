@@ -1,8 +1,10 @@
 ### Hi, I'm Maria.
 
 *Student at Instituto Superior Técnico, Lisbon*
+*Looking foward to improve my programming skills*
 
-I'm working on improving my skills in programming and I look foward to learn as much as I can!
+🌱 I’m currently working on a simple snake game in C. 
+✨ Pronouns: she/her
 
 
 
