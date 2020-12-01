@@ -1,4 +1,4 @@
-### Hi, I'm Maria.
+### 🌸 Hi, I'm Maria. 🌸
 
 *Student at Instituto Superior Técnico, Lisbon*
 
