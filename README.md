@@ -2,7 +2,7 @@
 
 *Student at Instituto Superior Técnico, Lisbon*
 
-*Looking foward to improve my programming skills*
+*Very much a beginner but looking foward to improve my programming skills and learn more.*
 
 🌱 I’m currently working on a simple snake game in C and having fun with advent of code 2020.
 
