@@ -3,7 +3,8 @@
 *Student at Instituto Superior Técnico, Lisbon*
 *Looking foward to improve my programming skills*
 
-🌱 I’m currently working on a simple snake game in C. 
+🌱 I’m currently working on a simple snake game in C.\n
+
 ✨ Pronouns: she/her
 
 
