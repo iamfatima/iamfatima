@@ -1,4 +1,4 @@
-### 🌸 Hi, I'm Maria. 🌸
+### 🌸 Hi, I'm Maria! 🌸
 
 *LEIC student at Instituto Superior Técnico, Lisbon*
 
@@ -7,6 +7,10 @@
 🌱 I’m currently working on a simple snake game in C and having fun with advent of code 2020.
 
 ✨ Pronouns: she/her
+
+🍄 Want to about docker, html and javascript in a near future
+
+*Thanks for stopping by.~*
 
 
 
