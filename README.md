@@ -6,9 +6,9 @@
 
 🌱 I’m currently working on a simple snake game in C and having fun with advent of code 2020.
 
-✨ Pronouns: she/her
+🍄 Want to learn about docker, html and javascript in a near future.
 
-🍄 Want to learn about docker, html and javascript in a near future
+✨ Pronouns: she/her
 
 *Thanks for stopping by.~*
 
