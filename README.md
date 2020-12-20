@@ -1,6 +1,6 @@
 ### 🌸 Hi, I'm Maria! 🌸
 
-*LEIC student at Instituto Superior Técnico, Lisbon*
+*19 year old LEIC student at Instituto Superior Técnico, Lisbon*
 
 *Very much a beginner but looking foward to improve my programming skills and learn more.*
 
