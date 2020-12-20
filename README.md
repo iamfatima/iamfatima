@@ -8,7 +8,7 @@
 
 ✨ Pronouns: she/her
 
-🍄 Want to about docker, html and javascript in a near future
+🍄 Want to learn about docker, html and javascript in a near future
 
 *Thanks for stopping by.~*
 
