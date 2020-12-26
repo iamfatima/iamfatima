@@ -4,7 +4,7 @@
 
 *Very much a beginner but looking foward to improve my programming skills and learn more.*
 
-🍄 Want to learn about docker, html and javascript in a near future.
+🍄 Want to learn html and javascript in a near future.
 
 ✨ Pronouns: she/her
 
