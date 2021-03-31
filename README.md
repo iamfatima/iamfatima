@@ -1,6 +1,5 @@
 ### 🌸  Hi, I'm Maria! 🌸
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamfatima&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfatima&theme=tokyonight)
 
 
